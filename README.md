@@ -5,7 +5,7 @@ Dieses Repository ist für ein Projekt im Studium.
 ## Mitwirkende
 - Carlotta
 - Michael
-- Nina
+- Nina W.
 ## Datenset
 Spotify Million Playlist Dataset
 ## Fragen
