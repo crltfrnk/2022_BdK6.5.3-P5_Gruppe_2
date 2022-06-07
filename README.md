@@ -1,4 +1,4 @@
-# playlist-project
+# 2022_BdK6.5.3-P5_Gruppe_2
 Dieses Repository ist für ein Projekt im Studium.
 
 ---
