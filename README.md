@@ -11,6 +11,7 @@ Spotify Million Playlist Dataset
 ## Fragen
 - Welcher Artist ist am meisten in den Playlists vertreten? (Top 3? Top 5?)
 - Welcher Song ist am meisten in den Playlists vertreten? (Top 3? Top 5?
-- Wie oft ist Interpret x/Song x in den Playlists vertreten?
-- Wie viele Songs sind in den 1 Mio. Playlists vorhanden?
+- Wie oft ist Interpret x in den Playlists vertreten?
+- Wie oft ist Song x in den Playlists vertreten?
+- Wie viele Songs sind in den Playlists vorhanden? (Konzentrieren auf die ersten 1.000 oder 10.000 Playlists?)
 - Wie ist die durchschnittliche Länge einer Playlist?
