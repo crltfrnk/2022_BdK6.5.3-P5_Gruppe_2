@@ -7,7 +7,7 @@ Dieses Repository ist für ein Projekt im Studium.
 - Michael
 - Nina W.
 ## Datenset
-Spotify Million Playlist Dataset
+
 ## Fragen
 - Welcher Artist ist am meisten in den Playlists vertreten? (Top 3? Top 5?)
 - Welcher Song ist am meisten in den Playlists vertreten? (Top 3? Top 5?
