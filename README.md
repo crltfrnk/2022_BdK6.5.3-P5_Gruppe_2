@@ -10,7 +10,7 @@ Dieses Repository ist für ein Projekt im Studium.
 British Library: Lewis Carroll
 ## Fragen
 - Aus welchem Jahr stammen die meisten Publikationen?
-- In wie vielen verschiedenen Sprachen bzw. Sprachkombinationen wurde publiziert?
+- In wie vielen verschiedenen Sprachen bzw. Sprachkombinationen wurde publiziert? Welche fünf Sprachen werden am meisten verwendet? (Kreisdiagramm)
 - Wie viele einzigartige Klassifaktionen werden genutzt? Welche kommt am häufigsten vor?
 - Übersetzung ?
 - Größe des Buches ->
