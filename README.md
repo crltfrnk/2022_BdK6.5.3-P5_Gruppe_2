@@ -5,7 +5,7 @@ Dieses Repository ist für ein Projekt im Studium.
 ## Mitwirkende
 - Carlotta
 - Michael
-- Nina W.
+- Nina 
 ## Datenset
 British Library: Lewis Carroll
 ## Fragen
